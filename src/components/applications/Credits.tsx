@@ -9,10 +9,10 @@ const CREDITS = [
     {
         title: 'Maasho - Fidget (2022)',
         rows: [['Abel Maasho', 'Co-Production & Vocals'],
-               ['John Kearney', 'Production & Vocals']],
+               ['John Kearney', 'Production & BG Vocals']],
     },
     {
-        title: 'Take Me Home - PinkPantheress (2022)',
+        title: 'PinkPantheress - Take Me Home (2022)',
         rows: [
             ['Victoria Walker', 'Vocals'],
             ['John Kearney', 'Production & Vocal Production'],
